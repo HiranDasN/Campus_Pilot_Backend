@@ -8,7 +8,6 @@ const classController = require('../controllers/classController')
 
 const studentController = require('../controllers/studentController')
 
-
 const jwtMiddleware = require('../MiddleWare/jwtMiddleware')
 
 const multerConfig = require('../MiddleWare/multerMiddleware')
